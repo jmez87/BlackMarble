@@ -121,7 +121,7 @@ streamlit run scripts/tax_strategy_dashboard.py --server.port 8501
 
 ### If Dashboards Won't Start
 1. **Check Python**: Ensure Python 3.8+ is installed
-2. **Check Dependencies**: Run `pip install -r requirements.txt.txt`
+2. **Check Dependencies**: Run `pip install -r requirements.txt`
 3. **Check Ports**: Ensure ports 8501/8502 are available
 4. **Check Files**: Ensure all files are in correct locations
 

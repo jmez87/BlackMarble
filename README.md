@@ -60,7 +60,7 @@ A comprehensive financial and tax strategy dashboard system designed for advisor
 
 2. **Install dependencies**
    ```bash
-   pip install -r requirements.txt.txt
+   pip install -r requirements.txt
    ```
 
 3. **Launch dashboards**
@@ -97,7 +97,7 @@ BlackMarble/
 │   ├── README_TAX_SYSTEM.md           # Tax system overview
 │   ├── FIXES_AND_IMPROVEMENTS.md      # Technical improvements
 │   ├── LOCAL_LINKS.md                 # Quick access links
-│   └── requirements.txt.txt           # Python dependencies
+│   └── requirements.txt               # Python dependencies
 ```
 
 ## 💡 Key Benefits
