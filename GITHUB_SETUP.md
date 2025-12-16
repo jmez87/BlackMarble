@@ -64,7 +64,7 @@ gh repo create BlackMarble --public --source=. --remote=origin --push
 - `scripts/tax_strategy_dashboard.py` - Tax strategy system
 - `launch_*.ps1` - Windows PowerShell launchers
 - `docs/` - Comprehensive documentation
-- `requirements.txt.txt` - Python dependencies
+- `requirements.txt` - Python dependencies
 
 ### 🏆 **Professional Grade**
 - ✅ Production-ready code

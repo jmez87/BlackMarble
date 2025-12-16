@@ -100,7 +100,7 @@ BlackMarble/
 │   ├── tax_strategy_guide.md          # Comprehensive user guide
 │   └── README.md                      # Quick start documentation
 ├── launch_tax_dashboard.ps1           # PowerShell launcher (Windows)
-├── requirements.txt.txt               # Updated dependencies
+├── requirements.txt                   # Updated dependencies
 └── tax_transactions.json              # Auto-created data file
 ```
 
